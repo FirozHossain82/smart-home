@@ -2,7 +2,7 @@
 
 ## Website Live Link
 
-[Live-Website-Link](https://64e439182450fe1de9e60e58--cheery-kelpie-117c71.netlify.app/)
+[Live-Website-Link](https://shiny-croquembouche-e89b71.netlify.app/)
 
 ## Available Scripts
 
